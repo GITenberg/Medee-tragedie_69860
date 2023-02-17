@@ -1,0 +1,39 @@
+_repo: Medee-tragedie_69860
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Longepierre, Hilaire Bernard de Requeleyne, baron de
+    aliases:
+    - De Longepierre, Hilaire Bernard de Requeleyne, baron
+    - De Requeleyne, Hilaire Bernard, baron de Longepierre
+    - Requeleyne, Hilaire Bernard de, baron de Longepierre
+    birthdate: 1659
+    deathdate: 1721
+    gutenberg_agent_id: '55460'
+    url: http://www.gutenberg.org/2009/agents/55460
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Hilaire-Bernard_de_Longepierre
+    - https://fr.wikipedia.org/wiki/Hilaire-Bernard_de_Longepierre
+description: ''
+gutenberg_issued: '2023-01-22'
+identifiers:
+  gutenberg: '69860'
+language: fr
+pgterms:marc904: http://catalogue.bnf.fr/ark:/12148/cb44729477h
+pgterms:marc905: 20230119092755delongepie
+pgterms:marc906: '1694'
+pgterms:marc907: FR
+production_note: 'Produced by: J.-M. Mariot from files generously made available by
+  the Bibliothèque nationale de France (BnF/Gallica).'
+publication_note: 'France: Pierre Emery,1694.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tragedies'
+- !lcsh 'Medea, consort of Aegeus, King of Athens (Mythological character) -- Drama'
+- !lcsh 'French drama -- 17th century'
+- !lcc 'PQ'
+- GITenberg
+title: 'Médée: tragédie'
+url: http://www.gutenberg.org/ebooks/69860
