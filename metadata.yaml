@@ -1,5 +1,8 @@
 _repo: Medee-tragedie_69860
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69860-h/images/medee_cover.jpg
 creator:
   author:
     agent_name: Longepierre, Hilaire Bernard de Requeleyne, baron de
@@ -15,6 +18,8 @@ creator:
     - https://en.wikipedia.org/wiki/Hilaire-Bernard_de_Longepierre
     - https://fr.wikipedia.org/wiki/Hilaire-Bernard_de_Longepierre
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69860#Medee-tragedie
 gutenberg_issued: '2023-01-22'
 identifiers:
   gutenberg: '69860'
